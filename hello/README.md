@@ -1,8 +1,5 @@
 # Hello
 
-{% video https://www.youtube.com/watch?v=DmE9lCvrxgU %}
-
-{% next %}
 
 ## Listing Files
 
